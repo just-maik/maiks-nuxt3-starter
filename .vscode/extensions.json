@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "esbenp.prettier-vscode",
+        "christian-kohler.path-intellisense",
+        "christian-kohler.npm-intellisense",
+        "nucllear.vscode-extension-auto-import",
+        "pranaygp.vscode-css-peek"
+    ]
+}

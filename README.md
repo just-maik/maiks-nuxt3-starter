@@ -3,13 +3,13 @@
 ## The included batteries:
 - SEO-Kit
 - Typed Router
-- Umami Analytics
 - Tailwind
 - Nuxt Device
 - VueUse
-- Nuxt Image
 - NuxtSvgo
+- Nuxt Icon
 - Vite PWA
+- Check out package.json for more
 
 ## Setup
 

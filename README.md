@@ -1,3 +1,5 @@
+# CURRENTLY OUTDATED!
+
 # Maik's Started based on Nuxt 3
 
 ## The included batteries:
